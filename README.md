@@ -22,4 +22,4 @@ Features include:
 bash
 php -S localhost:8000
 ```
-3. Open your browser and navigate to http://localhost:8000 to use the web application.
+3. Open your browser and navigate to http://localhost:8000 to access the website.
