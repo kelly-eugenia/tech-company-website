@@ -16,10 +16,11 @@ Features include:
 ---
 
 ## Running the Application
-1. Download files
+1. Download all files
 2. Open terminal and run
 ```
 bash
+cd [folder_name]
 php -S localhost:8000
 ```
 3. Open your browser and navigate to http://localhost:8000 to access the website.
