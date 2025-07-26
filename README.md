@@ -12,3 +12,14 @@ Features include:
 - Search and sort options to list EOIs
 - CRUD operations to update and delete EOIs
 - Responsive and accessible web design with CSS animations
+
+---
+
+## Running the Application
+1. Download files
+2. Open terminal and run
+```
+bash
+php -S localhost:8000
+```
+3. Open your browser and navigate to http://localhost:8000 to use the web application.
